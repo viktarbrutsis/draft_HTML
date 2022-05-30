@@ -1,0 +1,26 @@
+/*body {
+   background-color: aqua;
+}*/
+
+/*li {
+   text-align: center;
+}*/
+
+.toUp {
+   text-transform: uppercase;
+}
+
+h1 {
+   color:red;
+   text-align: center;
+}
+
+.chapternumber {
+   color: red;
+   text-align: center;
+   font-size: 24px;
+}
+
+.it {
+   font-style: italic;
+}
